@@ -23,6 +23,10 @@ const Estilos = {
         fontWeight: 'bold',
         fontSize: 18,
    },
+
+   texto2:{
+       color: 'black'
+   }
        
 };
 
